@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/chris/Projects/ASP_MVC_Trial/ASP_MVC_Trial/ASP_MVC_Trial.csproj",
+      "projectUniqueName": "/Users/chris/development/ASP_MVC_Trial/ASP_MVC_Trial/ASP_MVC_Trial.csproj",
       "projectName": "ASP_MVC_Trial",
-      "projectPath": "/Users/chris/Projects/ASP_MVC_Trial/ASP_MVC_Trial/ASP_MVC_Trial.csproj",
+      "projectPath": "/Users/chris/development/ASP_MVC_Trial/ASP_MVC_Trial/ASP_MVC_Trial.csproj",
       "packagesPath": "/Users/chris/.nuget/packages/",
-      "outputPath": "/Users/chris/Projects/ASP_MVC_Trial/ASP_MVC_Trial/obj/",
+      "outputPath": "/Users/chris/development/ASP_MVC_Trial/ASP_MVC_Trial/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/chris/.config/NuGet/NuGet.Config"

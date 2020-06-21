@@ -1,11 +1,18 @@
 ﻿<Properties StartupConfiguration="{6DC294CB-B69F-4549-B552-9EF8BD9450BA}|Default">
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench ActiveDocument="ASP_MVC_Trial/Views/Home/Index.cshtml">
+    <Files>
+      <File FileName="ASP_MVC_Trial/Views/Home/Index.cshtml" Line="2" Column="26" />
+    </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="ASP_MVC_Trial" expanded="True">
             <Node name="ASP_MVC_Trial" expanded="True">
-              <Node name="Views" selected="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Home" expanded="True">
+                  <Node name="Index.cshtml" selected="True" />
+                </Node>
+              </Node>
             </Node>
           </Node>
         </State>
